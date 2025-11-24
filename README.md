@@ -1,1 +1,1 @@
-# CICD-Pratice
+# CICD-Practice
